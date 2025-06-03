@@ -1,4 +1,6 @@
-. ~/scripts/hello.sh
+echo "hello from dot_profile"
+# source ~/scripts/hello.sh
+
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/usr/bin:$PATH"
 export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin

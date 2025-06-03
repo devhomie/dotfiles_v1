@@ -1,0 +1,11 @@
+syntax on
+
+set number
+
+set autoindent " Respect spaces when starting new line
+set expandtab " Expand tabs to spaces
+set tabstop=2 " Number of spaces tab is counted for
+set shiftwidth=2 " Number of space to use for autoindent
+
+set backspace=2 " Fix backsapce behavior on most terminals
+
