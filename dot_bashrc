@@ -158,3 +158,5 @@ source "$OSH"/oh-my-bash.sh
 # alias ohmybash="mate ~/.oh-my-bash"
 
 # source ~/log_commands.sh
+
+export PATH="$HOME/.deno/bin:$PATH"
