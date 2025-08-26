@@ -160,3 +160,7 @@ source "$OSH"/oh-my-bash.sh
 # source ~/log_commands.sh
 
 export PATH="$HOME/.deno/bin:$PATH"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
